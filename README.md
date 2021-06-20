@@ -9,7 +9,7 @@
 | ---------| -----------|
 | Introduction   | [Read01](https://bassel07.github.io/Reading-Notes201/) |
 | Cars           | [Read02](https://bassel07.github.io/Cars/)   |
-| ..........     |  [Read03]()   |
+| Class-01       |  [Read03](https://bassel07.github.io/Reading-Notes201/class-01)   |
 | .........      |  [Read04]()   |
 | ...........    |  [Read05]()   |
 | .............  |  [Read06]()
