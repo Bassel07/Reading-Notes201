@@ -230,8 +230,8 @@ reflect how computers get things done.
           
 
           ## Decisions and Loops
+     
          
-          
           Looking at a flowchart (for all but the most basic scripts),
 the code can take more than one path, which means the
 browser runs different code in different situations. In this
@@ -242,19 +242,22 @@ data in your scripts to handle different situations.
 page and/or the browser window itself. To determine which path to take, programmers often
 rely upon the following three concepts:
           
-          * EVALUATIONS
-You can analyze values in
+          * EVALUATIONS 
+          
+          You can analyze values in
 your scripts to determine
 whether or note they
 match expected results.
           
           * DECISIONS
+          
 Using the results of
 evaluations, you can
 decide which path your
 script should go down.
           
           * LOOPS
+          
 There are also many
 occasions where you will
 want to perform the same
