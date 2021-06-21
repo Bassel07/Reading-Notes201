@@ -12,8 +12,8 @@
 | Class-01       |  [Read03](https://bassel07.github.io/Reading-Notes201/class-01)   |
 | Class-02       |  [Read04](https://bassel07.github.io/Reading-Notes201/class-02)   |
 | ...........    |  [Read05]()   |
-| .............  |  [Read06]()
-| ...........    |  [Read07]()
+| .............  |  [Read06]()   |
+| ...........    |  [Read07]()   |
 | ...........    |  [Read09]()   |
 | ...........    |  [Read10]()   |
 | ...........    |  [Read11]()   |
