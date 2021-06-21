@@ -36,14 +36,15 @@ meaning of acronyms, and so on
 
 * Headings 
 
-HTML has six "levels" of
-headings:
-<h1> is used for main headings
-<h2> is used for subheadings
+## HTML has six "levels" of headings:
+
+h1 is used for main headings
+h2 is used for subheadings
 If there are further sections
 under the subheadings then the
-<h3> element is used, and so
+h3 element is used, and so
 on...
+  
   
   * paragraph
   
@@ -56,24 +57,25 @@ each paragraph on a new line
 with some space between it and
 any subsequent paragraphs.
   
+  
   * Bold & Italic
   
   
-  <b> By enclosing words in the tags
-<b> and </b> we can make
+  b By enclosing words in the tags
+b and /b we can make
 characters appear bold.
-The <b> element also represents
+The b element also represents
 a section of text that would be
 presented in a visually different
 way (for example key words in a
 paragraph) although the use of
-the <b> element does not imply
+the b element does not imply
 any additional meaning.
     
-    <i> By enclosing words in the tags
-<i> and </i> we can make
+    i By enclosing words in the tags
+i and /i we can make
 characters appear italic.
-The <i> element also represents
+The i element also represents
 a section of text that would be
 said in a different way from
 surrounding content — such as
@@ -82,9 +84,12 @@ foreign words, thoughts, or other
 terms that would usually be
 italicized.
       
-      * Superscript & Subscrip
+      
+      
+   * Superscript & Subscrip
   
-      <sup>
+  
+      sup
 The <sup> element is used
 to contain characters that
 should be superscript such
@@ -93,7 +98,7 @@ mathematical concepts like
 raising a number to a power such
 as 22.
         
-        <sub>
+        sub
 The <sub> element is used to
 contain characters that should
 be subscript. It is commonly
@@ -101,6 +106,7 @@ used with foot notes or chemical
 formulas such as H2
 0.
           
+  
           * White Space
           
           In order to make code easier to
@@ -115,9 +121,10 @@ break, it treats that as a single
 space too. This is known as
 white space collapsing.
           
+  
           * Line Breaks & Horizontal Rules
           
-          <br />
+          br/
 As you have already seen, the
 browser will automatically show
 each new paragraph or heading
@@ -126,13 +133,13 @@ to add a line break inside the
 middle of a paragraph you can
 use the line break tag <br />.
           
-          <hr />
+          hr /
 To create a break between
 themes — such as a change of
 topic in a book or a new scene
 in a play — you can add a
 horizontal rule between sections
-using the <hr /> tag.
+using the hr / tag.
 There are a few elements that
 do not have any words between
 an opening and closing tag. They
@@ -159,13 +166,18 @@ Once you have learned how to write a CSS rule, learning CSS
 mostly involves learning the different properties you can use.
 So this chapter will:
           
+  
+  
 ● Introduce you to how CSS works
-          
+  
+  
 ● Teach you how to write CSS rules
           
          
 ● Show you how CSS rules apply to HTML pages
-          
+  
+  
+  
 The remaining chapters in this section will look at all of the
 various CSS properties you can use.
           
@@ -180,28 +192,6 @@ and a separate CSS file (example.css). The fifth line of HTML uses the
 <link> element to indicate where the CSS file is located.
 On the next page, you will see how CSS rules can also be placed in your
 HTML pages and we will discuss when you might want to do this.
-<!DOCTYPE html>
-<html>
-<head>
- <title>Introducing CSS</title>
- <link href="css/example.css" type="text/css"
- rel="stylesheet" />
-</head>
-<body>
- <h1>From Garden to Plate</h1>
- <p>A <i>potager</i> is a French term for an
- ornamental vegetable or kitchen garden ... </p>
- <h2>What to Plant</h2>
- <p>Plants are chosen as much for their functionality
- as for their color and form ... </p>
-</body>
-</html>
-body {
-font-family: Arial, Verdana, sans-serif;}
-h1, h2 {
-color: #ee3e80;}
-p {
-color: #665544;}
           
    
   ## Duckett JS book
@@ -212,6 +202,7 @@ color: #665544;}
           
     ##   Basic JavaScript Instructions
           
+  
       *  THE LANGUAGE:
 SYNTAX AND GRAMMAR
 like any new language, there are new
