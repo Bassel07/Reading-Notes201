@@ -2,6 +2,15 @@
 
 ## How to Write a Git Commit Message
 
+The seven rules of a great Git commit message
+* Keep in mind: This has all been said before.
+* Separate subject from body with a blank line
+* Limit the subject line to 50 characters
+* Capitalize the subject line
+* Do not end the subject line with a period
+* Use the imperative mood in the subject line
+* Wrap the body at 72 characters
+* Use the body to explain what and why vs. how
 
 ## Duckett HTML book
 ![img](https://designshack.net/wp-content/uploads/duckettbook-f.jpg)
@@ -49,8 +58,8 @@ any subsequent paragraphs.
   
   * Bold & Italic
   
-  <b>
-By enclosing words in the tags
+  
+  <b> By enclosing words in the tags
 <b> and </b> we can make
 characters appear bold.
 The <b> element also represents
@@ -61,8 +70,7 @@ paragraph) although the use of
 the <b> element does not imply
 any additional meaning.
     
-    <i>
-By enclosing words in the tags
+    <i> By enclosing words in the tags
 <i> and </i> we can make
 characters appear italic.
 The <i> element also represents
@@ -195,5 +203,61 @@ color: #ee3e80;}
 p {
 color: #665544;}
           
+   
+  ## Duckett JS book
+          
+   ![img](https://i.ytimg.com/vi/wrtqiTl2Xuo/maxresdefault.jpg)
+          
+         
+          
+    ##   Basic JavaScript Instructions
+          
+      *  THE LANGUAGE:
+SYNTAX AND GRAMMAR
+like any new language, there are new
+words to learn (the vocabulary) and rules
+for how these can be put together (the
+grammar and syntax of the language).
+          
+          
+          * GIVING INSTRUCTIONS:
+          FOR A BROWSER TO FOLLOW
+Web browsers (and computers in general)
+approach tasks in a very different way than
+a human might. Your instructions need to
+reflect how computers get things done. 
+          
+          
+
+          ## Decisions and Loops
+         
+          
+          Looking at a flowchart (for all but the most basic scripts),
+the code can take more than one path, which means the
+browser runs different code in different situations. In this
+chapter, you will learn how to create and control the flow of
+data in your scripts to handle different situations. 
+          
+          Scripts often need to behave differently depending upon how the user interacts with the web
+page and/or the browser window itself. To determine which path to take, programmers often
+rely upon the following three concepts:
+          
+          * EVALUATIONS
+You can analyze values in
+your scripts to determine
+whether or note they
+match expected results.
+          
+          * DECISIONS
+Using the results of
+evaluations, you can
+decide which path your
+script should go down.
+          
+          * LOOPS
+There are also many
+occasions where you will
+want to perform the same
+set of steps repeatedly. 
           
           
