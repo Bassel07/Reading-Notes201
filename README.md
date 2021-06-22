@@ -12,7 +12,7 @@
 | Class-01           |  [Read03](https://bassel07.github.io/Reading-Notes201/class-01)   |
 | Class-02           |  [Read04](https://bassel07.github.io/Reading-Notes201/class-02)   |
 | Learning Journal 02|  [Read05](https://bassel07.github.io/Reading-Notes201/Learning%20Journal)   |
-| .............      |  [Read06]()   |
+| Read-03            |  [Read06](https://bassel07.github.io/Reading-Notes201/Read-03)   |
 | ...........        |  [Read07]()   |
 | ...........        |  [Read09]()   |
 | ...........        |  [Read10]()   |
