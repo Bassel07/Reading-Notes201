@@ -52,3 +52,10 @@ by extrinsic factors, such as getting good grades or other perks, or avoiding th
 
 ![img](https://elearningindustry.com/wp-content/uploads/2016/04/pedagogy-vs-andragogy-unnecessary-paradigm.jpg)
 
+
+### Final Words
+This was an amazing experience for me and enabled me to further understand the relationship between Pedagogy and Andragogy as no longer linear with a defined entrance and exit point, but rather as fluid and dynamic and relationship. I, now, understand that based on the cognitive ability and aptitude of the learner, they could easily fall at the beginning, middle, or end of a spectrum of learning. Though this may seem obvious in concept, the key take away is the assumptions we place on learners that can involuntarily disrupt their learning. Yes, my son is ten, however this does not mean he has to functionally learn in a pedagogical model because of age or relevancy to the material. Learners should continuously be assessed to ensure proper instructional strategies are being used. Instructional Design should never be so rigid that it can not be adapted to specific learners.
+
+I just thought this was neat how it unfolded and had to share. Thank you to my son, Jesse, for helping me understand this topic more thoroughly and enabling me to become a better Instructional system Designer and father.
+
+  
