@@ -78,10 +78,10 @@ Tip: You can define a border for nearly all HTML elements.
 ### CSS Padding
 The CSS padding property defines a padding (space) between the text and the border.
   
- ### CSS Margin
-### CSS margin property defines a margin (space) outside the border.
+  CSS Margin
+ CSS margin property defines a margin (space) outside the border.
   
- ### Link to External CSS
+  Link to External CSS
 External style sheets can be referenced with a full URL or with a path relative to the current web page.
   
   
