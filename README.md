@@ -15,7 +15,7 @@
 | Read-03            |  [Read06](https://bassel07.github.io/Reading-Notes201/Read-03)   |
 | Read-04            |  [Read07](https://bassel07.github.io/Reading-Notes201/Read-04)   |
 | Read-05            |  [Read09](https://bassel07.github.io/Reading-Notes201/Read-05)   |
-| ...........        |  [Read10]()   |
+| LearningJournal-04 |  [Read10](https://bassel07.github.io/Reading-Notes201/LearningJournal-04)   |
 | ...........        |  [Read11]()   |
 | ...........        |  [Read12]()   |
 | ...........        |  [Read13]()   |
