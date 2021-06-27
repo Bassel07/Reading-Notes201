@@ -88,3 +88,17 @@ External style sheets can be referenced with a full URL or with a path relative 
   
  ![img](https://www.syncfusion.com/books/w3_css_succinctly/Images/w3-css-colors.png)
   
+  
+  ## CSS Box Sizing
+  
+   box-sizing: border-box;
+  
+  ## scroll
+  
+  overflow:scroll;
+  overflow:auto;
+  
+  
+  
+  
+  
