@@ -125,12 +125,12 @@ using windows terminal
   to creat and switch branch:
   * git checkout -b "problem"
   * code .   (make the changes in the vs)
-  
+  -------------------------------------------------
   * git add .
   * git commit -m 'problem'
   * git push origin problem
-  
+  --------------------------------------------------
   * make a pull request and merge
-  
+  --------------------------------------------------
   * git checkout main
   * get pull origin main
