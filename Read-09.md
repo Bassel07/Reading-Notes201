@@ -84,9 +84,8 @@ and forms.
 Together, these properties allow you to take finer control over
 specific parts of your pages.     
 
-      ![style](https://user-images.githubusercontent.com/85109819/124128459-aca9e480-da31-11eb-89ac-44fb631562bd.PNG)
-
-      Summary
+ ##  Summary
+   
      * In addition to the CSS p XX roperties covered in other
 chapters which work with the contents of all elements,
 there are several others that are specifically used to
@@ -108,14 +107,12 @@ interactive.
       
 
 ## Duckett JS book
-      ![img](https://i.ytimg.com/vi/wrtqiTl2Xuo/maxresdefault.jpg)
-       
+      
 # Chapter 6: “Events” 
 
  ## THREE WAYS TO BIND AN EVENT TO AN ELEMENT    
       
-      * HTML EVENT
-HANDLERS
+   HTML EVENT HANDLERS
 See p251
 This is bad practice, but you
 need to be aware of it because
