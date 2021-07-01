@@ -194,7 +194,8 @@ important to write error-handling code.
 In the latter part of the chapter, you will learn how to
 gracefully check whether something will work, and
 offer an alternative option if it fails.
-                         
+     ![errrrrrrererer](https://user-images.githubusercontent.com/85109819/124175746-d6c7ca80-da62-11eb-942c-5881f405359b.PNG)
+                    
  # SUMMARY
                          
 * If you understand execution contexts (which have two
