@@ -40,6 +40,19 @@ To start a video automatically, use the autoplay attribute
   
   
   
+# HTML button Tag
+
+![image](https://user-images.githubusercontent.com/85109819/124397985-2b1fb400-dcc8-11eb-8825-995e703963ec.png)
+
+Definition and Usage
+The button tag defines a clickable button.
+
+Inside a <button> element you can put text (and tags like i, b, strong, br, img, etc.). That is not possible with a button created with the <input> element!
+
+Tip: Always specify the type attribute for a <button> element, to tell browsers what type of button it is.
+
+Tip: You can easily style buttons with CSS! Look at the examples below or visit our CSS Buttons tutorial.
+
 
   
   
