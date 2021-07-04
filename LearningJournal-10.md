@@ -11,7 +11,7 @@ It is a good idea to always include width and height attributes. If height and w
 
 The <source> element allows you to specify alternative video files which the browser may choose from. The browser will use the first recognized format.
 
-The text between the <video> and </video> tags will only be displayed in browsers that do not support the <video> element.
+The text between the video and /video tags will only be displayed in browsers that do not support the video element.
   
 ![image](https://user-images.githubusercontent.com/85109819/124397357-31139600-dcc4-11eb-9bf9-03af9cb18af7.png)
   
