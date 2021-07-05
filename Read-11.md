@@ -141,7 +141,7 @@ links to.
 
 # Summary
 
-* Search engine optimization h XX elps visitors find your
+* Search engine optimization helps visitors find your
 sites when using search engines.
 * Analytics tools such as Google Analytics allow you to
 see how many people visit your site, how they find it,
