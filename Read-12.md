@@ -22,6 +22,8 @@ finally we’ll use a bar chart to show profit over the period.
 
 ![image](https://user-images.githubusercontent.com/85109819/124456916-1c74e380-dd40-11eb-84d0-2a898894c1e3.png)
 
+https://github.com/chartjs/Chart.js
+
 
 # Basic usage of canvas
 
